@@ -1,1 +1,7 @@
-# py-notebook git init git add README.md git commit -m first commit git remote add origin https://github.com/jamesvren/py-notebook.git
+## Installl jupyter
+pip install jupyter
+or
+pip3 install jupyter
+
+## Start jupyter
+jupyter notebook
