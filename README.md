@@ -4,4 +4,7 @@ or
 pip3 install jupyter
 
 ## Start jupyter
-jupyter notebook
+jupyter-notebook
+
+## Visit from
+http://localhost:8888/tree
